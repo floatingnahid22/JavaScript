@@ -1,3 +1,9 @@
-# Weather App in Vanilla Javascript
-This is a cool weather app made in vanilla Javascript. In this app, I have fetched openweathermap.org API for current weather report.
+# This Weather app is basically built by Vanila JavaScript.
+# Now, I just tell you the process in short,
+1. Scaffolding the Weather App
+2. Find a Weather API
+3. Define the Page Markup
+4. Specify Some Basic Styles
+5. Set the Main Styles
+6. Add the JavaScript
 
